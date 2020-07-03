@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../../upload/bg.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.monformulaire{
+    width: 100%;
+    max-width: 420px;
+    padding: 15px;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+
+.form-control-dangerview{
+    border-radius: 0px !important;
+    background-color: #F9F6F6 !important;
+    border-left-style: none !important;
+    border-right-style: none !important;
+    border-top-style: none !important;
+    border-bottom-style: #565050 !important ;
+}
+.row-form{
+    margin-top: 30px;
+}
+.btn-outline-secondary{
+    border-radius: 0% !important;
+}
